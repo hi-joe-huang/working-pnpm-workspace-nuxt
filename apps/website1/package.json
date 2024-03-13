@@ -10,9 +10,15 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.0",
+    "lucide-vue-next": "^0.356.0",
     "nuxt": "^3.10.3",
+    "nuxt3-websites-package": "workspace:*",
+    "radix-vue": "^1.5.2",
+    "tailwind-merge": "^2.2.1",
+    "tailwindcss-animate": "^1.0.7",
     "vue": "^3.4.21",
-    "vue-router": "^4.3.0",
-    "nuxt3-websites-package": "workspace:*"
+    "vue-router": "^4.3.0"
   }
 }
